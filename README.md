@@ -20,17 +20,19 @@ I’m a fresher, so I focus on building a solid foundation, documenting projects
 
 ## Featured project
 
-### [Personal Portfolio Website](https://abhishekrautportfolio.space-z.ai)
-My portfolio website showcasing my background, projects, and contact details.
+### [Personal Portfolio Website](https://abhishek-portfolio-et4h.vercel.app/)
+My portfolio website showcasing my background, education, projects, and contact details.
 
 - **Source code:** [abhishek-portfolio](https://github.com/abhishekraut7391/abhishek-portfolio)
 - **Built with:** HTML, CSS, Bootstrap, and JavaScript
-- **Website:** [abhishekrautportfolio.space-z.ai](https://abhishekrautportfolio.space-z.ai)
+- **Vercel website:** [abhishek-portfolio-et4h.vercel.app](https://abhishek-portfolio-et4h.vercel.app/)
+- **Previous hosted version:** [abhishekrautportfolio.space-z.ai](https://abhishekrautportfolio.space-z.ai)
 
 ## Connect with me
 
 - **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
-- **Portfolio:** [Visit my website](https://abhishekrautportfolio.space-z.ai)
+- **Portfolio:** [Visit my Vercel website](https://abhishek-portfolio-et4h.vercel.app/)
+- **GitHub:** [abhishekraut7391](https://github.com/abhishekraut7391)
 - **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
 
 ---
