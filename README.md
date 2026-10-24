@@ -29,7 +29,7 @@ A practical website concept for a small business offering custom name plates, st
 ## Connect
 
 - 🌐 **Portfolio:** [abhishek-raut.vercel.app](https://abhishek-raut.vercel.app/)
-- 📄 **Download resume:** [PDF resume](https://abhishek-raut.vercel.app/resume/resume.pdf)
+- 📄 **Current resume:** [View and print resume](https://abhishek-raut.vercel.app/resume.html)
 - 🔗 **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
 - 💻 **GitHub:** [abhishekraut7391](https://github.com/abhishekraut7391)
 
