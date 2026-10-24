@@ -1,40 +1,38 @@
 # Hi, I'm Abhishek Raut 👋
 
-**M.Sc. Computer Science Graduate | Aspiring Software & Web Developer**  
+**M.Sc. Computer Science Graduate | Software & Web Development | Python, SQL, Linux Fundamentals**  
 📍 Nashik, Maharashtra, India
 
-I’m a Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects and strengthening my technical skills through hands-on learning.
+I graduated from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects and strengthening my technical foundation through hands-on learning.
 
-- 🎓 **M.Sc. Computer Science:** CGPA 8.25/10
-- 🧩 **Interests:** Web development, practical software projects, and data-driven applications
-- 🌱 **Currently learning:** Python fundamentals, SQL, Linux basics, and Git/GitHub
+- 🎓 **M.Sc. Computer Science:** CGPA 8.25/10 (Grade A+)
+- 🎓 **B.Sc. Computer Science:** CGPA 8.21/10 (Grade A)
+- 🧰 **Technical foundations:** HTML5, CSS3, JavaScript, SQL, Python basics, Linux fundamentals, networking basics, Git/GitHub
+- 🧪 **Internship exposure:** software-development workflows and Environmental Impact Assessment (EIA) studies
 - 📫 **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
 
-## Skills & tools
+## Selected projects
 
-- **Web fundamentals:** HTML5, CSS3, responsive design
-- **Tools:** Git, GitHub, Microsoft Office
-- **Learning:** Python, SQL, Linux
+### FixMate — Premium Home Services Platform (M.Sc.)
+Responsive front-end prototype for browsing home services and booking. It uses in-memory JavaScript data; live backend APIs and database connectivity remain future scope.
 
-I’m a fresher, so I focus on building a solid foundation, documenting projects clearly, and being honest about what I’ve implemented.
+**Tech:** HTML5, CSS3, Vanilla JavaScript, responsive design, proposed MySQL schema.
 
-## Featured project
+### Online Stationery Management System (B.Sc.)
+“Stationery Treasures” — a web-based stationery shopping and order-management project with registration/login, cart, checkout, receipts, and admin product/order management.
 
-### [Personal Portfolio Website](https://abhishek-portfolio-et4h.vercel.app/)
-My portfolio website showcasing my background, education, projects, and contact details.
+**Tech:** HTML5, CSS3, JavaScript, jQuery, PHP, PostgreSQL.
 
-- **Source code:** [abhishek-portfolio](https://github.com/abhishekraut7391/abhishek-portfolio)
-- **Built with:** HTML, CSS, Bootstrap, and JavaScript
-- **Vercel website:** [abhishek-portfolio-et4h.vercel.app](https://abhishek-portfolio-et4h.vercel.app/)
-- **Previous hosted version:** [abhishekrautportfolio.space-z.ai](https://abhishekrautportfolio.space-z.ai)
+### Om Arts Business Website
+A practical website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage.
 
-## Connect with me
+## Connect
 
-- **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
-- **Portfolio:** [Visit my Vercel website](https://abhishek-portfolio-et4h.vercel.app/)
-- **GitHub:** [abhishekraut7391](https://github.com/abhishekraut7391)
-- **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
+- 🌐 **Portfolio:** [abhishek-raut.vercel.app](https://abhishek-raut.vercel.app/)
+- 📄 **Download resume:** [PDF resume](https://abhishek-raut.vercel.app/resume/resume.pdf)
+- 🔗 **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
+- 💻 **GitHub:** [abhishekraut7391](https://github.com/abhishekraut7391)
 
 ---
 
-Thanks for visiting my profile! 🚀
+I’m a fresher focused on learning, documenting my work clearly, and being accurate about what I’ve implemented.
