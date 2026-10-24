@@ -1,40 +1,38 @@
 # Hi, I'm Abhishek Raut 👋
 
-### M.Sc. Computer Science | Aspiring Software & Web Developer
+**M.Sc. Computer Science Graduate | Aspiring Software & Web Developer**  
+📍 Nashik, Maharashtra, India
 
-I'm a Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects, learning new technologies, and improving my problem-solving skills through hands-on practice.
+I’m a Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects and strengthening my technical skills through hands-on learning.
 
-- 🎓 **Education:** M.Sc. Computer Science — CGPA 8.25/10
-- 🌱 **Currently learning:** Python, SQL, and core software / web development concepts
-- 💻 **Interests:** Web development, practical software projects, and data-driven applications
-- 📍 **Based in:** Nashik, Maharashtra, India
+- 🎓 **M.Sc. Computer Science:** CGPA 8.25/10
+- 🧩 **Interests:** Web development, practical software projects, and data-driven applications
+- 🌱 **Currently learning:** Python fundamentals, SQL, Linux basics, and Git/GitHub
 - 📫 **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
 
-## Skills
+## Skills & tools
 
-**Web:** HTML5, CSS3, responsive web design  
-**Programming & data:** Python (learning), SQL (learning)  
-**Tools:** Git, GitHub, Microsoft Office
+- **Web fundamentals:** HTML5, CSS3, responsive design
+- **Tools:** Git, GitHub, Microsoft Office
+- **Learning:** Python, SQL, Linux
 
-> I’m continuing to build my skills through practice. This profile will showcase projects with clear documentation, setup instructions, and honest descriptions of what I have implemented.
+I’m a fresher, so I focus on building a solid foundation, documenting projects clearly, and being honest about what I’ve implemented.
 
-## Projects
+## Featured project
 
-### [Personal Portfolio](https://github.com/abhishekraut7391/abhishek-portfolio)
-My personal portfolio website, built with HTML, CSS, and JavaScript, with responsive layouts and theme switching.
+### [Personal Portfolio Website](https://abhishekrautportfolio.space-z.ai)
+My portfolio website showcasing my background, projects, and contact details.
 
-### [Student Success Predictor](https://github.com/abhishekraut7391/student-success-predictor)
-A student-success prediction project repository. See the project README for the current implementation, stack, setup instructions, and limitations.
+- **Source code:** [abhishek-portfolio](https://github.com/abhishekraut7391/abhishek-portfolio)
+- **Built with:** HTML, CSS, Bootstrap, and JavaScript
+- **Website:** [abhishekrautportfolio.space-z.ai](https://abhishekrautportfolio.space-z.ai)
 
-### [FixMate — Home Services Platform](https://github.com/abhishekraut7391)
-An academic project concept for a web-based home-services booking experience. I’ll add a dedicated repository link and technical documentation when the source project is published here.
-
-## Connect
+## Connect with me
 
 - **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
-- **Portfolio repository:** [abhishek-portfolio](https://github.com/abhishekraut7391/abhishek-portfolio)
+- **Portfolio:** [Visit my website](https://abhishekrautportfolio.space-z.ai)
 - **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
 
 ---
 
-*Thanks for visiting my profile!*
+Thanks for visiting my profile! 🚀
