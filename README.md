@@ -14,17 +14,17 @@ I graduated from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I 
 ## Selected projects
 
 ### FixMate — Premium Home Services Platform (M.Sc.)
-Responsive front-end prototype for browsing home services and booking. It uses in-memory JavaScript data; live backend APIs and database connectivity remain future scope.
+Responsive front-end prototype for browsing home services and booking. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/fixmate/README.md). It uses in-memory JavaScript data; live backend APIs and database connectivity remain future scope.
 
 **Tech:** HTML5, CSS3, Vanilla JavaScript, responsive design, proposed MySQL schema.
 
 ### Online Stationery Management System (B.Sc.)
 “Stationery Treasures” — a web-based stationery shopping and order-management project with registration/login, cart, checkout, receipts, and admin product/order management.
 
-**Tech:** HTML5, CSS3, JavaScript, jQuery, PHP, PostgreSQL.
+**Tech:** HTML5, CSS3, JavaScript, jQuery, PHP, PostgreSQL. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/online-stationery-management-system/README.md).
 
 ### Om Arts Business Website
-A practical website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage.
+A practical website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md).
 
 ## Connect
 
