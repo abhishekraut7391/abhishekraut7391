@@ -1,38 +1,59 @@
 # Hi, I'm Abhishek Raut 👋
 
-**M.Sc. Computer Science Graduate | Software & Web Development | Python, SQL, Linux Fundamentals**  
+**M.Sc. Computer Science Graduate | Aspiring IT / Application Support | Linux, SQL & Networking Fundamentals**  
 📍 Nashik, Maharashtra, India
 
-I graduated from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects and strengthening my technical foundation through hands-on learning.
+I am a Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I am building my foundation for entry-level IT and Application Support roles through structured practice in Linux, SQL, networking, troubleshooting, and Git/GitHub. I also enjoy creating practical web projects.
 
-- 🎓 **M.Sc. Computer Science:** CGPA 8.25/10 (Grade A+)
-- 🎓 **B.Sc. Computer Science:** CGPA 8.21/10 (Grade A)
-- 🧰 **Technical foundations:** HTML5, CSS3, JavaScript, SQL, Python basics, Linux fundamentals, networking basics, Git/GitHub
-- 🧪 **Internship exposure:** software-development workflows and Environmental Impact Assessment (EIA) studies
-- 📫 **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
+## Education
+
+- **M.Sc. Computer Science** — CGPA: 8.25/10 (Grade A+)
+- **B.Sc. Computer Science** — CGPA: 8.21/10 (Grade A)
+
+## Technical skills
+
+- **Linux:** Basic command-line navigation, files and directories, permissions, processes, disk usage, services, and log inspection.
+- **SQL:** Basic queries, filtering, sorting, aggregation, joins, and data updates; practicing with relational databases.
+- **Networking:** Fundamentals of IP addresses, DNS, DHCP, gateways, TCP/UDP, HTTP/HTTPS, ports, ping, and traceroute.
+- **Tools:** Git, GitHub, Windows, and PuTTY fundamentals.
+- **Web development:** HTML5, CSS3, JavaScript, responsive design, PHP, and basic Python.
+
+*I describe these as fundamentals because I am continuing to strengthen them with practical exercises.*
 
 ## Selected projects
 
-### FixMate — Premium Home Services Platform (M.Sc.)
-Responsive front-end prototype for browsing home services and booking. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/fixmate/README.md). It uses in-memory JavaScript data; live backend APIs and database connectivity remain future scope.
+### FixMate — Home Services Platform (M.Sc.)
+A responsive front-end prototype for browsing home services and booking. It uses in-memory JavaScript data; live backend APIs and database connectivity are future scope.  
+**Tech:** HTML5, CSS3, Vanilla JavaScript, responsive design.  
+[Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/fixmate/README.md)
 
-**Tech:** HTML5, CSS3, Vanilla JavaScript, responsive design, proposed MySQL schema.
-
-### Online Stationery Management System (B.Sc.)
-“Stationery Treasures” — a web-based stationery shopping and order-management project with registration/login, cart, checkout, receipts, and admin product/order management.
-
-**Tech:** HTML5, CSS3, JavaScript, jQuery, PHP, PostgreSQL. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/online-stationery-management-system/README.md).
+### Online Stationery Management System — Stationery Treasures (B.Sc.)
+A web-based stationery shopping and order-management project with registration/login, cart, checkout, receipts, and admin product/order management.  
+**Tech:** HTML5, CSS3, JavaScript, jQuery, PHP, PostgreSQL.  
+[Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/online-stationery-management-system/README.md)
 
 ### Om Arts Business Website
-A practical website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage. [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md).
+A website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage.  
+[Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md)
+
+## IT Support practice
+
+I maintain a separate learning repository with notes and beginner-friendly exercises for Linux, SQL, networking, Git, and troubleshooting.
+
+➡️ [IT Technical Support & Application Support Practice](https://github.com/abhishekraut7391/study)
+
+## Internship exposure
+
+Environmental Impact Assessment (EIA) studies during an internship at Mantras Innovation & Solutions Pvt. Ltd.
 
 ## Connect
 
 - 🌐 **Portfolio:** [abhishek-raut.vercel.app](https://abhishek-raut.vercel.app/)
-- 📄 **Current resume:** [View and print resume](https://abhishek-raut.vercel.app/resume.html)
+- 📄 **Resume:** [View and print resume](https://abhishek-raut.vercel.app/resume.html)
 - 🔗 **LinkedIn:** [Abhishek Raut](https://www.linkedin.com/in/abhishek-raut-372021311/)
 - 💻 **GitHub:** [abhishekraut7391](https://github.com/abhishekraut7391)
+- 📫 **Email:** [abhishekraut165@gmail.com](mailto:abhishekraut165@gmail.com)
 
 ---
 
-I’m a fresher focused on learning, documenting my work clearly, and being accurate about what I’ve implemented.
+I am an entry-level candidate who values clear documentation, careful troubleshooting, continuous learning, and being accurate about what I have implemented.
