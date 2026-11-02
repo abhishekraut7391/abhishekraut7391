@@ -1,9 +1,9 @@
 # Hi, I'm Abhishek Raut 👋
 
-**M.Sc. Computer Science Graduate | Aspiring IT / Application Support | Linux, SQL & Networking Fundamentals**  
+**M.Sc. Computer Science Graduate | Software & Web Development | Python, SQL & Linux Fundamentals**  
 📍 Nashik, Maharashtra, India
 
-I am a Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I am building my foundation for entry-level IT and Application Support roles through structured practice in Linux, SQL, networking, troubleshooting, and Git/GitHub. I also enjoy creating practical web projects.
+I am an M.Sc. Computer Science graduate from K.T.H.M. College, Nashik (Savitribai Phule Pune University). I enjoy building practical web projects and strengthening my technical foundation through hands-on learning in programming, databases, operating systems, networking, and Git/GitHub.
 
 ## Education
 
@@ -38,7 +38,7 @@ A website concept for a small business offering custom name plates, stamps, UV p
 
 ## IT Support practice
 
-I maintain a separate learning repository with notes and beginner-friendly exercises for Linux, SQL, networking, Git, and troubleshooting.
+I maintain a separate learning repository with notes and beginner-friendly exercises for Linux, SQL, networking, Git, and general technical concepts.
 
 ➡️ [IT Technical Support & Application Support Practice](https://github.com/abhishekraut7391/study)
 
@@ -56,4 +56,4 @@ Environmental Impact Assessment (EIA) studies during an internship at Mantras In
 
 ---
 
-I am an entry-level candidate who values clear documentation, careful troubleshooting, continuous learning, and being accurate about what I have implemented.
+I value clear documentation, continuous learning, and being accurate about what I have implemented.
