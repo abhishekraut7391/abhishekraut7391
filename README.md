@@ -36,11 +36,11 @@ A web-based stationery shopping and order-management project with registration/l
 A website concept for a small business offering custom name plates, stamps, UV printing, engraving, and signage.  
 [Project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md)
 
-## IT Support practice
+## Technical learning & practice
 
 I maintain a separate learning repository with notes and beginner-friendly exercises for Linux, SQL, networking, Git, and general technical concepts.
 
-➡️ [IT Technical Support & Application Support Practice](https://github.com/abhishekraut7391/study)
+➡️ [Technical Learning & Practice Notes](https://github.com/abhishekraut7391/study)
 
 ## Internship exposure
 
